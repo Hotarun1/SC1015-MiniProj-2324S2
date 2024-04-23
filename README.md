@@ -23,7 +23,21 @@ The dataset chosen was already pre-cleaned and managed well. There was little to
 
 
 ### 3. Exploratory Data Analysis
+Various visualisation methods was used, namely histogram, bar chart (count of diseases) and violin plot. They were mainly used to observe trends and distributions of each of the variable.
+Logistic regression was then applied to find out the coefficients of each variable, how likely/unlikely would the presence or absence of the variable affect the presence of each disease.
+The results were that **Diastolic Blood Pressure**, **AST (Aspartate Aminotransferase)** and **BMI (Body Mass Index)** does not impact the likelihood/unlikelihood of diseases as much as the other variables due to the low coefficent value.
+
+As a result, we will be leaving them out in order to cut down the number of variable that the model will be trained on.
 
 ### 4. Model Used
+The dataset used mainly consists of classification variable therefore, we will be using Gradient Boosting Classifier, Decision Trees, Random Forest, and Support Vector Machines models.
+
+After evaluating the models used above, we continued by applying **ensemble techniques** namely, stacking to help improve the final prediction, utilising the strengths of **Random Forest**, **Gradient Boosting** and **Support Vector Machine**.
+
 ### 5. Conclusion
+Although the accuracy of the model may not be high overall, with the usage of the stacked model, the models could be used as a sidekick for medical professionals to highlight possible diseases (**Diabetes** (Moderate/High Confidence), **Anemia/Thalasse/Thoromboc** (Low/Moderate Confidence)).
+
+The project was overall a success in aiding us apply various machine learning models and data science technique to attempt to solve real world problems.
+Although there was no concrete solution found in the short term, it helped us apply the knowledge gained in SC1015. In the future as technology advances, there could be an algorithm that would be able to predict with full confidence.
+
 ### References
