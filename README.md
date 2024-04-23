@@ -2,8 +2,7 @@
 
 
 ### Description:
-This repository contains all Jupyter Notebook (.ipynb) files, datasets, videos, and source materials/references used (if any) that have been created/used as part of SC1015 DSAI Mini Project.
-
+This repository contains all Jupyter Notebook (.ipynb) files, datasets, videos, and source materials/references used (if any) that have been created/used as part of SC1015 DSAI Mini Project.  
 This README will highlight the main pointers and actions taken in the project. For more details, refer to the .ipynb files in this repo.
 
 ### 1. Problem Formulation:
@@ -41,8 +40,8 @@ The project was overall a success in aiding us apply various machine learning mo
 Although there was no concrete solution found in the short term, it helped us apply the knowledge gained in SC1015. In the future as technology advances, there could be an algorithm that would be able to predict with full confidence.
 
 ### 6. Contributors
-@Hotarun1 - Leo
-@JerwinLee3690 - Jerwin
-@Sandwhich253989 - Avanesh
+@Hotarun1 - Leo  
+@JerwinLee3690 - Jerwin  
+@Sandwhich253989 - Avanesh  
 
 ### References
