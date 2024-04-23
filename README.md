@@ -40,4 +40,9 @@ Although the accuracy of the model may not be high overall, with the usage of th
 The project was overall a success in aiding us apply various machine learning models and data science technique to attempt to solve real world problems.
 Although there was no concrete solution found in the short term, it helped us apply the knowledge gained in SC1015. In the future as technology advances, there could be an algorithm that would be able to predict with full confidence.
 
+### 6. Contributors
+@Hotarun1 - Leo
+@JerwinLee3690 - Jerwin
+@Sandwhich253989 - Avanesh
+
 ### References
